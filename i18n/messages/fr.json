@@ -68,33 +68,33 @@
     "Stonard": "Stonard",
     "Stringmaster": "Stringmaster",
     "Sword of Night": "Sword of Night",
-    "Sword of Voyager": "Sword of Voyager",
+    "Sword of Voyager": "Sabre du voyageur",
     "Sword#18": "Sword#18",
-    "Thunderbolt": "Thunderbolt",
-    "Undying Flame": "Undying Flame",
-    "Variation": "Variation",
-    "Verdant Summit": "Verdant Summit"
+    "Thunderbolt": "Tonnerre",
+    "Undying Flame": "Flamme divine",
+    "Variation": "Variation fantastique",
+    "Verdant Summit": "Sommet verdoyant"
   },
 
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
+    "Featured Resonator": "Résonateurs limité",
+    "Featured Weapon": "Arme limitée",
+    "Permanent Resonator": "Résonateurs permanent",
+    "Permanent Weapon": "Armes permanentes",
     "Beginner Convene": "Beginner Convene",
     "Beginner's Choice": "Beginner's Choice",
     "Selector Ticket": "Selector Ticket",
 
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
+    "Tidal Chorus": "Chorale des vagues",
+    "Winter Brume Banner": "Brume d'hiver",
     "Utterance of Marvels": "Utterance of Marvels",
     "Beginner Selector": "Beginner's Choice Convene",
     "Convene Giveback Event": "Absolute Pulsation",
 
-    "Absolute Pulsation": "Absolute Pulsation",
+    "Absolute Pulsation": "Pulsation tranchante",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "Thawborn Renewal": "Le rêve du printemps"
   },
 
   "Metadata": {
@@ -171,36 +171,36 @@
         "data": "data",
         "updates": "updates"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "Wuwa tracker vous aide à suivre",
+      "description": "Un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques globales et plus encore. Nous visons à fournir les meilleurs outils pour montrer votre progression dans Wuthering Waves à vos amis."
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "Import History": "Import History",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "Commencer",
+      "description": "Bienvenue, Nomade. Nous allons commencer, vous êtes prêt ?",
+      "Import History": "Importer l'historique",
+      "View Pull History": "Voir l'historique des tirages",
+      "Sync Your Data": "Synchroniser vous données",
+      "Your data will now sync automatically!": "Vos données se synchroniseront automatiquement !"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "Changelog",
+      "description": "Consultez les actualités du site ici."
     },
     "Community": {
-      "title": "Community"
+      "title": "Communauté"
     }
   },
 
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "Trophées",
+    "description": "Merci à <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> Pour les données initiales.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "Importation des données réussie.",
+        "import-invalid": "Veuillez importer des données valides.",
+        "parse-fail": "Échec de l'analyse du fichier JSON.",
+        "download-fail": "Le téléchargement a échoué.",
+        "download-start": "Votre téléchargement va commencer."
       },
       "description": "Use the filters to help you find what achievements you're missing.",
       "Completed": "Completed",
